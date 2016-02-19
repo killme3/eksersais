@@ -1,2 +1,3 @@
 # eksersais
-latihan
+latihan pertama github 
+
