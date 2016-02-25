@@ -1,0 +1,3 @@
+# eksersais
+latihan pertama github 
+
